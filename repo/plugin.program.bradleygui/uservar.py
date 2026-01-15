@@ -11,7 +11,7 @@ ADDONTITLE     = 'Bradleys GUI WIZARD'
 BUILDERNAME    = 'Bradleys'
 #########################Make sure to change the repo to yours!!!!
 EXCLUDES       = [ADDON_ID, 'roms', 'My_Builds', 'backupdir', 'script.module.kodi-six', 'script.module.six']
-BUILDFILE      = 'https://'
+BUILDFILE      = 'https://raw.githubusercontent.com/darealist2021/DAREALIST-BUILDS/refs/heads/main/darealistbuilds.txt'
 UPDATECHECK    = 0
 APKFILE        = 'https://'
 YOUTUBETITLE   = 'FTG Help Videos' 
@@ -151,7 +151,7 @@ REPOZIPURL     =  'https://'
 # Enable Notification screen Yes or No
 ENABLE         = 'Yes'
 # Url to notification file
-NOTIFICATION   = 'https://'
+NOTIFICATION   = 'https://raw.githubusercontent.com/darealist2021/DAREALIST-BUILDS/refs/heads/main/darealistnotify.txt'
 # Use either 'Text' or 'Image'
 HEADERTYPE     = 'Text'
 # Font size of header
